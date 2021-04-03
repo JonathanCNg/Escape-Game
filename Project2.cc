@@ -891,8 +891,9 @@ void mazeGame()
 
 int main()
 {
-    srand(time(NULL));
-    mainMenu();
+    //srand(time(NULL));
+    //mainMenu();
+    cout << "hi!";
 }
 
 
