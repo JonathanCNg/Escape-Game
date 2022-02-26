@@ -2,7 +2,7 @@
 
 An escape room game made for command console in Fall 2019. Made with an original story and creative interactions. Includes WASD movement, multiple rooms, mazes, tic tac toe, and riddles!
 
-## Sample Image
+## Sample
 
 <img src="Sample.jpg" height="300"/>
 <img src="escaperoom-sample-crop.gif" height="300"/>
